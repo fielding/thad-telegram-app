@@ -1,6 +1,5 @@
 // See https://kit.svelte.dev/docs/types#app
 
-import type { TelegramWebApps } from "telegram-webapps-types";
 
 // for information about these interfaces
 declare global {
